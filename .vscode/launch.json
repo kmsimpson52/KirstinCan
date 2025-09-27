@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "firefox",
+            "request": "launch",
+            "name": "Hugo Launch",
+            "url": "http://localhost:1313",
+            "webRoot": "${workspaceFolder}",
+            "preLaunchTask": "start server"
+        }
+    ]
+}
