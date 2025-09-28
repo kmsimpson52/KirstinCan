@@ -39,4 +39,21 @@
   </section>
 </body>
 
+<style>
+  /* custom overrides */
+  #about h3, #recent-posts .h3, #list-page h2 {
+      color: var(--primary-color) !important;
+      font-family: "Alata", sans-serif;
+  }
+
+  @font-face {
+    font-family: Montserrat-ExtraBold;
+    src: url("{{ .Site.Params.staticPath }}/fonts/Montserrat-ExtraBold.otf") format("opentype");
+  }
+  
+  #primary-font h1, .navbar-brand {
+    font-family: "Montserrat-ExtraBold", serif
+  }
+</style>
+
 </html>
