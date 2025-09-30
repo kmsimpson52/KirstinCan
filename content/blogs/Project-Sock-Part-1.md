@@ -37,6 +37,9 @@ This is a top-down style sock pattern, which means very little to me, seeing as 
 
   ## The Materials
   I found this really nice pinky wool at a local wool boutique. It is nice stuff. Soft on the skin, and the color is as close to my vision as possible.
+  {{< picture src="IMG_1419.jpg" alt="pink wool" >}}
+
+
   If this color was a fruit smoothie, it would taste delicious. Maybe I should try to make a smootie this color. Now that would be fun. I bet I could do it.    
 
   ## A Rocky Start

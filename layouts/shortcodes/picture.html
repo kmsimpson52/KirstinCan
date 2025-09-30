@@ -1,0 +1,5 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+<br>
+<img class="" src="{{ $.Site.Params.staticPath }}/{{ $src }}" alt="{{ $alt }}" style="max-height:500px;">
+<br>
