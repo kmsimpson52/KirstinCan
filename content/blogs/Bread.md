@@ -7,7 +7,7 @@ tags:
   - Baking
   - Bread
   - Bread Machine
-image: /New-Skill-Seeker.jpg
+image: /B_is_for_Bread.jpg
 description: "Bread Machine"
 toc: true
 ---

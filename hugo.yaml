@@ -130,8 +130,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Kirstin."
-    subtitle: "I've got a lot of hobbies..."
-    content: "This is my project accountability journal. "
+    subtitle: "I am a maker."
+    content: "This is my project accountability journal."
     image: /images/hero.svg
     bottomImage:
       enable: false
@@ -161,12 +161,11 @@ params:
      I think that anyone can learn anything, if they really try. Hence, Kirstin Can, my blog and project journal for all the projects I told myself I can do. 
       Because sometimes, a bit of accountability can go a long way! 
 
-      I am an artist, parent, human, and friend to all fidos. 
+      I am an artist, human, a bunch of other things too, but most notably, a friend to all fidos. 
     skills:
       enable: true
       title: "Here are a few of my interests:"
       items:
-        - "Dog training"
         - "Knitting"
         - "Drawing"
         - "Baking"

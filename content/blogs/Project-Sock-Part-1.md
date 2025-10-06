@@ -18,7 +18,7 @@ That is, until this summer. Becasue knitting and summer seem to go together in m
 
 Anyways, once the project bug bits, it itches. It reaaallllly itches. And so, I had no choice but to begin Project Sock.
 
-## Goals: 
+## Goals 
   - Make a sock (ideally, two)
   - Use 100% wool (If I am going to put in Work, I want them to Last)
   - Ideally, a delightful shade of berry, or denim, or funfetti wool
@@ -39,7 +39,6 @@ This is a top-down style sock pattern, which means very little to me, seeing as 
   I found this really nice pinky wool at a local wool boutique. It is nice stuff. Soft on the skin, and the color is as close to my vision as possible.
   {{< picture src="IMG_1419.jpg" alt="pink wool" >}}
 
-
   If this color was a fruit smoothie, it would taste delicious. Maybe I should try to make a smootie this color. Now that would be fun. I bet I could do it.    
 
   ## A Rocky Start
@@ -49,13 +48,20 @@ How many times did I goof on the cast on? 3 times. Yes, that means I set everyth
 
 I was coasting along wonderfully, until I reached the heel part of the sock. And now, for several weeks, I have been a bit frozen. There are things in the pattern that just lost me. 
 
+ {{< picture src="IMG_1418.jpg" alt="Knit Sock in Progress" >}}
+
+
 After stalling, and reading the pattern maybe 35 times, I decided to wing it. Which, turned out to not be the move. After finally looking up a bit of guidance on youtube, I realized what is is supposed to look like... And I will now once again be unraveling rows of teenie tiny stiches. Stressfull! Knitters know that dropped stiches can cause chaos. While pretty much anything can be fixed, digging out a very small dropped yarn loop is not enjoyable.
 
 Ugh.
 
+
 ## Project Outlook
 
 So that brings us to now. Project Sock needs some unraveling, and I need more knowledge on how to do a decent heel. 
+
+ {{< picture src="Yarn-and-half-sock.jpg" alt="Ball of Yarn and Unfinished Knit Sock" >}}
+
 But it is not over until it is over. The wool boutique shop owner said she really enjoys making socks since they knit up pretty fast. A fast project? I am listening... and I admit, I did fantasize about knitting a whole drawer of beautiful wool socks. Doesn't that sound like a dream?!I'm going to take some deep breaths and perservere. 
 
 
