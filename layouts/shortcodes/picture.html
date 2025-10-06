@@ -1,5 +1,9 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
-<br>
-<img class="" src="{{ $.Site.Params.staticPath }}/{{ $src }}" alt="{{ $alt }}" style="max-height:500px;">
-<br>
+<img class="picture" src="{{ $.Site.Params.staticPath }}/{{ $src }}" alt="{{ $alt }}" style="max-height:500px;">
+<style>
+    .picture {
+        margin-top: 28px;
+        margin-bottom: 28px;
+    }
+</style>
