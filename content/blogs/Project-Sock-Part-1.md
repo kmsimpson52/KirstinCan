@@ -27,7 +27,7 @@ Anyways, once the project bug bits, it itches. It reaaallllly itches. And so, I 
   That is it. 
 
   ## The Pattern
-  After a very, very casual DuckDuckGo search of "Free Sock Patterns", I set my sights on the simple "Ol' Reliable Top Down Socks" pattern by Tanis Lavalle. It can be found on Ravelry. 
+  After a very, very casual DuckDuckGo search of "Free Sock Patterns", I set my sights on the simple ["Ol' Reliable Top Down Socks"](https://www.ravelry.com/patterns/library/ol-reliable-top-down-socks) pattern by Tanis Lavalle. It can be found on Ravelry. 
 
   What I liked: 
   - It was simple

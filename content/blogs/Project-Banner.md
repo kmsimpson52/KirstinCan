@@ -1,7 +1,7 @@
 ---
 title: "Project Banner"
 date: 2025-10-02
-draft: false
+draft: true
 author: "Kirstin S."
 tags:
   - Sewing

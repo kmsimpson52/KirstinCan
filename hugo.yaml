@@ -138,19 +138,15 @@ params:
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
-      name: "Resume"
-      url: "#"
-      download: true
+      name: "Here's what I've been up to"
+      url: "./blogs/project-sock-part-1/"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
+        - icon: fab fa-instagram
           url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+
 
    # About
   about:
@@ -185,7 +181,7 @@ params:
 
   # Single pages like blog and post
   singlePages:
-    socialShare: true
+    socialShare: false
     readTime:
       enable: true
       content: "min read"

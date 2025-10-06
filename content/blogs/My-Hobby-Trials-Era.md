@@ -1,7 +1,7 @@
 ---
 title: "My Hobby Trials Era"
 date: 2025-09-27
-draft: false
+draft: true
 author: "Kirstin S."
 tags:
   - Pottery
