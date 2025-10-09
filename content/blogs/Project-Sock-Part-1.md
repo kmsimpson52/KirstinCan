@@ -7,7 +7,7 @@ tags:
   - Knitting
   - Socks
   - Wool
-image: /project-sock2.PNG
+image: /project-sock2.png
 description: "I have never knit socks before. But I am going to try!"
 toc: true
 ---
