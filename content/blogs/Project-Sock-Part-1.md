@@ -2,7 +2,7 @@
 title: "Project Sock: Part 1"
 date: 2025-09-27
 draft: false
-author: "Kirstin S."
+author: "Kirstin"
 tags:
   - Knitting
   - Socks
